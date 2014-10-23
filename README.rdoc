@@ -1,0 +1,3 @@
+== README
+
+This is a sample project with RSpec, Rspec API Documentation setup
